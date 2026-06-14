@@ -40,5 +40,4 @@ def display_kda_ranking(player_stats_list):
                 f"{player_name}: Lỗi dữ liệu không hợp lệ!"
             )
             continue
-
 display_kda_ranking(player_stats_list)
