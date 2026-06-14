@@ -41,5 +41,4 @@ def display_kda_ranking(player_stats_list):
             )
             continue
 
-
 display_kda_ranking(player_stats_list)
